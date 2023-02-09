@@ -1,4 +1,4 @@
-export const Home = () =>{
-    return
-    <h1>this is home page</h1>
-};
+export const  Home = () => {
+    return <h1>Home</h1>;
+  };
+  

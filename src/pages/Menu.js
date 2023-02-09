@@ -1,4 +1,3 @@
-export const Menu = () =>{
-    return
-    <h1>this is Menu page</h1>
+export const  Menu = () => {
+    return  <h1>menu</h1>;
 };

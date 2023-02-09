@@ -1,5 +1,5 @@
 
-export const Contact = () =>{
-    return
-    <h1>this is Contact page</h1>
-};
+export const  Contact = () => {
+    return <h1>Contact Me</h1>;
+  };
+  
