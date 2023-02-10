@@ -1,4 +1,8 @@
+import { useContext } from "react";
+import { AppContext } from "../App";
+
 export const  Home = () => {
-    return <h1>Home</h1>;
+  const{username}=useContext(AppContext);
+    return <h1>Home:{username}</h1>;
   };
   
